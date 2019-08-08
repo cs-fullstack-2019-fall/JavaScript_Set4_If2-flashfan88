@@ -25,7 +25,7 @@ else
 
 
 //Exercise 11
-  var userGrade = parseInt(prompt("Enter your Grade"));
+  // var userGrade = parseInt(prompt("Enter your Grade"));
 
 
 
